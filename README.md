@@ -476,6 +476,7 @@ vq-benchmark sweep --dataset dbpedia-1536 --dataset-limit 100000 --method pq  # 
 - 👥 [Roster](https://gtvault.sharepoint.com/:x:/s/HAAG/EbRWUBbmh3pPpGuh9HF34DgBPnJQEdtMQoBTtANXCxOg9Q?e=B8ykCV)
 - 📄 [Weekly Report](https://gtvault.sharepoint.com/:w:/s/HAAG/EcKDOtAbNKZEr3KrZDfRlZ4BD_IMA-4hTSc7ll52J6_79A)
 - 🎤 [Presentations](https://gtvault-my.sharepoint.com/:x:/g/personal/byu321_gatech_edu/EUB3IKLuDwdLkG5dlPwJoccByYUJ9XJgcngZMbOa8pwq0A)
+- 🎤 [Presentations](https://www.overleaf.com/read/grmbdpdqkncf#15a0dc)
 - 💬 Slack: `#vector-quantization`
 
 ### Learning
